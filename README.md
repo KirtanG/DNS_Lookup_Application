@@ -22,11 +22,11 @@ The GUI was created with the help of <a href="https://github.com/ParthJadhav/Tki
 
 Blank GUI
 
-![Screenshot](assets\screen_1.jpg)
+![Screenshot](https://github.com/KirtanG/DNS_Lookup_Application/blob/main/assets/screen_1.jpg)
 
 GUI with an output
 
-![Screenshot](assets\screen_2.jpg)  
+![Screenshot](https://github.com/KirtanG/DNS_Lookup_Application/blob/main/assets/screen_2.jpg)  
 
 
 <div style="font-size:1.5em;">
